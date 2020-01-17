@@ -6,6 +6,9 @@ Code to fit spike trains with the Conductance-based encoding model.
 This MATLAB code is a reference implementation for the analyses found
 in [Latimer et al. 2014](http://pillowlab.princeton.edu/pubs/Latimer_conductancePointProc_NIPS14.pdf).
 
+### This code is associated with the paper from Latimer et al., "Inferring synaptic inputs from spikes with a conductance-based neural encoding model". eLife, 2019. http://dx.doi.org/10.7554/eLife.47012
+
+
 
 Downloading the repository
 ------------
